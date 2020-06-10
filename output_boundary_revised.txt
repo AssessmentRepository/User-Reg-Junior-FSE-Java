@@ -1,4 +1,0 @@
-testPasswordLength=true
-testUserNameLength=true
-testTextStatusLength=true
-testActiveUser=true
